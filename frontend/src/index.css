@@ -1,0 +1,16 @@
+:root {
+  --main-font-family: Arial;
+  --main-color: #C4C9CE
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #0A1929;
+
+  color: var(--main-color)
+}

@@ -13,7 +13,6 @@ exceptiongroup==1.1.1
 fake-useragent==1.1.1
 Flask==2.2.3
 Flask-Cors==3.0.10
-fonttools==4.39.4
 google==3.0.0
 google-api-core==2.11.0
 google-api-python-client==2.77.0

@@ -15,7 +15,7 @@ options = webdriver.ChromeOptions()
 options.add_argument(f"user-agent={user_agent.random}")
 options.add_argument("--headless")
 driver = webdriver.Chrome(
-    executable_path=r"D:\Programming\Python\Univer\parser_kinopoisk\webdriver\chromedriver.exe",
+    executable_path=r"\webdriver\chromedriver.exe",
     options=options
 )
 find_actor(driver, "test") 
